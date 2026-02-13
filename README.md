@@ -1,5 +1,5 @@
 # 건강한스탠튼 (healthy27) 👋
-은행권 IT 직무(Backend · Data Engineering, AI) 준비 중인 개발자입니다.  
+은행권 / SI / IT 직무(Backend · Data Engineering, AI, Cloud) 준비 중인 개발자입니다.  
 
 ---
 
