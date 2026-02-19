@@ -18,7 +18,7 @@
 - AImpact 동아리 부원
 - 창업동아리 부원
 - GDG(Google Developer Groups) 부원
-- 구글 머신러닝 부트캠프 수료
+- 구글 클라우드 부트캠프 수료
 
 ---
 
