@@ -10,13 +10,13 @@
 ---
 
 ## 🧾 수상 및 활동
-- 2026 전국 Google Clooud 기반 AI 융합 경진대회 최우수상
+- 2026 전국 Google Clooud 기반 AI 융합 경진대회 최우수상 (2026/02/13)
 - 강원로컬임팩트 창업경진대회 우수상
-- 강원 지역문제해결 아이디어 경진대회 최우수상
+- 강원 지역문제해결 아이디어 경진대회 최우수상 (2025/12/19)
 - 강원자치도 대학생 창업경진대회 본선 진출
 - 엘리스 국방 AI/SW 과정 수료
 - upstage Agent Workflows 해커톤 과정 수료
-- Google Cloud 부트캠프 수료
+- Google Cloud 부트캠프 수료 (248시간)
 - AImpact 소학회 부원
 - Weddit 창업동아리 부원
 - GDG(Google Developer Groups) 부원
