@@ -2,8 +2,7 @@
 ---
 
 ## 🔭 한 줄 소개
-- 목표: 은행/금융권 IT 엔지니어
-- 핵심 역량(요약): Java · Python · SQL · Git · C++
+- 핵심 역량(요약): Python · SQL · Git · C++
 
 ---
 
