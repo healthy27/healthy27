@@ -15,9 +15,9 @@
 - 엘리스 국방 AI/SW 과정 수료
 - upstage Agent Workflows 해커톤 과정 수료
 - Google Cloud 부트캠프 수료 (248시간)
-- AImpact 소학회 부원
-- Weddit 창업동아리 부원
-- GDG(Google Developer Groups) 부원
+- AImpact 소학회 부원 (-ing)
+- Weddit 창업동아리 부원 (2025/08 ~ 2026/02)
+- GDG(Google Developer Groups) 부원 (-ing)
 ---
 
 ## 💼 Projects (포트폴리오)
