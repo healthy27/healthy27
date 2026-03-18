@@ -2,7 +2,7 @@
 ---
 
 ## 🔭 한 줄 소개
-- 핵심 역량(요약): Python · SQL · Git · C++
+- 핵심 역량: AI/DATA · Python · SQL · Git · C++
 
 ---
 
