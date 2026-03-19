@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Google_Cloud-AI_Competition-gold?style=for-the-badge" alt="Google Cloud" />
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=healthy27&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views" />
+</p>
+
 </div>
 
 ## 🔭 한 줄 소개
@@ -57,9 +61,14 @@ AI/DATA 기반으로 문제를 구조화하고, 학습과 배포까지 연결하
 - [fire-route](https://github.com/healthy27) - 지역문제 해결 아이디어, 소방AI
 - 수화인식 키오스크 - 창업경진대회
 
-## 🔗 외부 추천/참고 프로젝트
+## 📊 GitHub Stats
 
-- [siwoo / OK독해](https://github.com/blackwellSW/ok-dokhae-ai-model)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=healthy27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=healthy27&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+
+</div>
 
 ## 연락
 
