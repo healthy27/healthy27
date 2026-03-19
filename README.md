@@ -1,12 +1,10 @@
 <div align="center">
 
-# 건강한스탠튼 (healthy27) 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1d4ed8,100:60a5fa&height=240&section=header&text=healthy27&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20%7C%20Cloud%20Portfolio&descAlignY=60&descSize=20" width="100%" alt="healthy27 banner" />
 
-<p>
-  <img src="https://img.shields.io/badge/AI%2FData-Portfolio-2563EB?style=for-the-badge" alt="AI Data" />
-  <img src="https://img.shields.io/badge/Python-SQL-Git-C%2B%2B-111827?style=for-the-badge" alt="Stack" />
-  <img src="https://img.shields.io/badge/Google_Cloud-AI_Competition-gold?style=for-the-badge" alt="Google Cloud" />
-</p>
+# 건강한스탠튼 (healthy27)
+
+<p><strong>AI / DATA / CLOUD 기반 포트폴리오</strong></p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=healthy27&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views" />
@@ -60,15 +58,6 @@ AI/DATA 기반으로 문제를 구조화하고, 학습과 배포까지 연결하
 
 - [fire-route](https://github.com/healthy27) - 지역문제 해결 아이디어, 소방AI
 - 수화인식 키오스크 - 창업경진대회
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=healthy27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=healthy27&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
-
-</div>
 
 ## 연락
 
