@@ -4,7 +4,7 @@
 
 # 건강한스탠튼 (healthy27)
 
-<p><strong>AI / DATA / CLOUD 기반 포트폴리오</strong></p>
+<p><strong>AI / DATA 기반 포트폴리오</strong></p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=healthy27&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views" />
