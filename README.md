@@ -27,7 +27,7 @@ AI/DATA 기반으로 문제를 구조화하고, 학습과 배포까지 연결하
 - Google Cloud 부트캠프 수료 (2025.12.26 ~ 2026.2.13) / (교육시간:248시간)
 - AImpact 소학회 부원 (2025 ~ -ing)
 - Weddit 창업동아리 부원 (2025 ~ 2026.02)
-- GDG(Google Developer Groups) 부원 (2025 ~ -ing)
+- Google Developer Groups on Campus 부원 (2025 ~ -ing)
 
 ## 💼 Portfolio
 
