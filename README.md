@@ -29,6 +29,7 @@ AI/DATA 기반으로 문제를 구조화하고, 학습과 배포까지 연결하
 - Weddit 창업동아리 부원 (2025 ~ 2026.02)
 - Google Developer Groups on Campus 부원 (2025 ~ -ing)
 - NH디지털패널 2기 활동 (2025년 4월 ~ 2025년 11월)
+- 인공지능리터러시 조교 (2026.03 ~ ing) 
 
 ## 💼 Portfolio
 
