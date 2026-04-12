@@ -9,14 +9,11 @@
 
 ## 📊 Contribution Overview
 
-<!-- GitHub 기여도 캘린더 히트맵 -->
-![GitHub Contribution Calendar](https://ghchart.rshah.org/0066CC/healthy27)
+<!-- GitHub 기본 커밋 박스 -->
+![GitHub Contribution](https://github-readme-stats.vercel.app/api?username=healthy27&show_icons=true&theme=react-dark&hide_border=true&count_private=true)
 
 <!-- 기여도 그래프 - 파란색 테마 -->
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=healthy27&theme=react-dark&radius=16&hide_border=true)
-
-<!-- GitHub Stats - 파란색 테마 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=healthy27&show_icons=true&theme=react-dark&hide_border=true&count_private=true)
 
 <!-- Top Languages - 파란색 테마 -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=healthy27&layout=compact&theme=react-dark&hide_border=true)
@@ -42,12 +39,6 @@
 - 인공지능리터러시 수업 조교 (2026.03 ~ ing) 
 - 더존 비교과 인턴십
 
-## 📅 Activity
-
-- Specializes in responsive web design.
-- Passionate about open-source contributions. 
-
----
 ## 📂 Portfolio
 <table>
   <tr>
