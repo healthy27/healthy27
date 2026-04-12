@@ -17,27 +17,6 @@
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=healthy27&theme=tokyonight&hide_border=true)
 
----
-
-### 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=healthy27&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=healthy27)
-
----
-
-### 📊 Activity Graph
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=healthy27&theme=tokyonight&hide_border=true)
-
----
-
-<!-- Contribution Stats -->
-<img src="https://img.shields.io/badge/Total%20Commits-1000+-2563EB?style=for-the-badge" alt="Total Commits" />
-<img src="https://img.shields.io/badge/Repositories-10+-10B981?style=for-the-badge" alt="Repositories" />
-<img src="https://img.shields.io/badge/Followers-100+-F59E0B?style=for-the-badge" alt="Followers" />
-
-</div>
----
 ## 🏆 Awards
 - 2026 전국 Google Cloud 기반 AI 융합 경진대회 최우수상 (2026.02.13)
 - 강원 지역문제해결 아이디어 경진대회 최우수상 (2025.12.19)
