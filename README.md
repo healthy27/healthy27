@@ -3,7 +3,7 @@
 ## 📊 GitHub Analytics
 
 <!-- Animated typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=🎯+Tracking+Every+Commit;⚡+Building+with+Passion;🚀+Continuous+Growth" alt="Animated Text" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=🎯+Tracking+Every+Commit;⚡+개발하는+최다물+깃허브;🚀+Continuous+Growth" alt="Animated Text" />
 
 ---
 
