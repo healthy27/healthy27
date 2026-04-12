@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0066CC&center=true&vCenter=true&width=500&lines=개발하는+최다물+깃허브" alt="Animated Text" />
 
 
-## 🏆 Awards
+## 🏆 수상/활동
 - 2026 전국 Google Cloud 기반 AI 융합 경진대회 최우수상 (2026.02.13)
 - 강원 지역문제해결 아이디어 경진대회 최우수상 (2025.12.19)
 - 강원로컬임팩트 창업경진대회 우수상 (2025.11.28)
