@@ -1,18 +1,42 @@
-# Capsule Render
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=healthy27&show_icons=true&theme=radical)
+## 📊 GitHub Analytics
 
-## 📊 GitHub Stats
-- ![GitHub commits](https://img.shields.io/github/commit-activity/m/healthy27/healthy27?style=flat-square)
-- ![GitHub last commit](https://img.shields.io/github/last-commit/healthy27/healthy27?style=flat-square)
+<!-- Animated typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=🎯+Tracking+Every+Commit;⚡+Building+with+Passion;🚀+Continuous+Growth" alt="Animated Text" />
 
-## 🌟 Contribution Streak Tracker
-![GitHub streak stats](https://git.io/streak-stats.svg?user=healthy27&theme=radical)
+---
 
-## 📝 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### 📈 Stats Overview
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=healthy27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+---
+
+### 🔥 Contribution Streak
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=healthy27&theme=tokyonight&hide_border=true)
+
+---
+
+### 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=healthy27&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=healthy27)
+
+---
+
+### 📊 Activity Graph
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=healthy27&theme=tokyonight&hide_border=true)
+
+---
+
+<!-- Contribution Stats -->
+<img src="https://img.shields.io/badge/Total%20Commits-1000+-2563EB?style=for-the-badge" alt="Total Commits" />
+<img src="https://img.shields.io/badge/Repositories-10+-10B981?style=for-the-badge" alt="Repositories" />
+<img src="https://img.shields.io/badge/Followers-100+-F59E0B?style=for-the-badge" alt="Followers" />
+
+</div>
 ---
 ## 🏆 Awards
 - 2026 전국 Google Cloud 기반 AI 융합 경진대회 최우수상 (2026.02.13)
