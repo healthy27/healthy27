@@ -2,24 +2,26 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Animated typing SVG - 한글만, 주황색 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=개발하는+최다물+깃허브" alt="Animated Text" />
+<!-- Animated typing SVG - 한글만, 파란색 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0066CC&center=true&vCenter=true&width=500&lines=개발하는+최다물+깃허브" alt="Animated Text" />
 
 ---
 
 ## 📊 Contribution Overview
 
-<!-- 기여도 그래프 - 주황색 테마 -->
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=healthy27&theme=orange&radius=16&hide_border=true)
+<!-- GitHub 기여도 캘린더 히트맵 -->
+<img src="https://github-readme-stats-git-master-rdijih.vercel.app/api?username=healthy27&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&theme=tokyonight" alt="GitHub Stats" />
 
-<!-- GitHub Stats - 주황색 테마 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=healthy27&show_icons=true&theme=orange&hide_border=true&count_private=true)
+<!-- 기여도 그래프 - 파란색 테마 -->
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=healthy27&theme=react-dark&radius=16&hide_border=true)
 
-<!-- Top Languages - 주황색 테마 -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=healthy27&layout=compact&theme=orange&hide_border=true)
+<!-- GitHub Stats - 파란색 테마 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=healthy27&show_icons=true&theme=react-dark&hide_border=true&count_private=true)
+
+<!-- Top Languages - 파란색 테마 -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=healthy27&layout=compact&theme=react-dark&hide_border=true)
 
 </div>
-
 ### 🔥 Contribution Streak
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=healthy27&theme=tokyonight&hide_border=true)
