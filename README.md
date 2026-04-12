@@ -7,11 +7,15 @@
 
 ---
 
-### 📈 Stats Overview
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=healthy27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+## 📊 Contribution Overview
 
----
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=healthy27&theme=tokyonight&radius=16&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=healthy27&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
 
 ### 🔥 Contribution Streak
 
@@ -63,4 +67,4 @@
 </table>
 
 ## 📫 Contact
-- Email: zkzk1351@naver.com
+Email: zkzk1351@naver.com
