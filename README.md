@@ -10,16 +10,15 @@
 ## 📊 Contribution Overview
 
 <!-- GitHub 기본 커밋 박스 -->
-![GitHub Contribution](https://github-readme-stats.vercel.app/api?username=healthy27&show_icons=true&theme=react-dark&hide_border=true&count_private=true)
+![GitHub Contribution](https://github-readme-stats.vercel.app/api?username=healthy27&show_icons=true&hide_border=true&count_private=true)
 
-<!-- 기여도 그래프 - 파란색 테마 -->
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=healthy27&theme=react-dark&radius=16&hide_border=true)
+<!-- 기여도 그래프 -->
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=healthy27&hide_border=true)
 
-<!-- Top Languages - 파란색 테마 -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=healthy27&layout=compact&theme=react-dark&hide_border=true)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=healthy27&layout=compact&hide_border=true)
 
 </div>
-
 ### 🔥 Contribution Streak
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=healthy27&theme=tokyonight&hide_border=true)
