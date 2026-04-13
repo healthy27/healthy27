@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,45:166534,100:0ea5e9&height=260&section=header&text=healthy27&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%E2%80%A2%20Data%20%E2%80%A2%20AI%20%E2%80%A2%20Cloud&descAlignY=58&descSize=19" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=0F766E&center=true&vCenter=true&width=920&lines=Hello!;Google+Cloud+AI+competition+winner;FastAPI+%E2%80%A2+Flutter+%E2%80%A2+Vertex+AI+%E2%80%A2+Gemini" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=0F766E&center=true&vCenter=true&width=920&lines=Hello!;FastAPI+%E2%80%A2+%E2%80%A2+Vertex+AI+%E2%80%A2+Gemini" alt="Typing SVG" />
 </a>
 
 <p>
@@ -21,26 +21,7 @@
 
 </div>
 
-## Signature Highlights
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>🏆 Award Momentum</strong><br/>
-      Competition, bootcamp, and community activity built around practical AI delivery.
-    </td>
-    <td align="center" width="33%">
-      <strong>🧠 Product Direction</strong><br/>
-      Builds systems that improve reasoning and learning flow instead of answer dumping.
-    </td>
-    <td align="center" width="33%">
-      <strong>☁️ Delivery Scope</strong><br/>
-      Covers app, backend, model evaluation, and cloud deployment in one workflow.
-    </td>
-  </tr>
-</table>
-
-## Tech Constellation
+## 기술 스택
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -48,7 +29,7 @@
   </a>
 </div>
 
-## GitHub Pulse
+## GitHub 활동
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=healthy27&show_icons=true&include_all_commits=true&theme=transparent&title_color=166534&icon_color=0ea5e9&text_color=14532d&border_color=86efac&rank_icon=github" alt="GitHub Stats" />
@@ -108,7 +89,7 @@
   </tr>
 </table>
 
-## 📫 Contact
+## 📫 연락처
 
 <p align="center">
   <a href="mailto:zkzk1351@naver.com">
