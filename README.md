@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,45:166534,100:0ea5e9&height=260&section=header&text=healthy27&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%E2%80%A2%20Data%20%E2%80%A2%20AI%20%E2%80%A2%20Cloud&descAlignY=58&descSize=19" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=0F766E&center=true&vCenter=true&width=920&lines=소통하는+개발자+최다물;Google+Cloud+AI+competition+winner;FastAPI+%E2%80%A2+Flutter+%E2%80%A2+Vertex+AI+%E2%80%A2+Gemini" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=0F766E&center=true&vCenter=true&width=920&lines=Hello!;Google+Cloud+AI+competition+winner;FastAPI+%E2%80%A2+Flutter+%E2%80%A2+Vertex+AI+%E2%80%A2+Gemini" alt="Typing SVG" />
 </a>
 
 <p>
