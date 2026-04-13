@@ -14,8 +14,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=healthy27&label=PROFILE+VIEWS&color=16a34a&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/healthy27?style=for-the-badge&color=0ea5e9&labelColor=052e16&logo=github&label=FOLLOWERS" alt="GitHub Followers" />
+
   <img src="https://img.shields.io/github/last-commit/healthy27/healthy27?style=for-the-badge&color=22c55e&labelColor=14532d&label=LAST%20UPDATE" alt="Last Update" />
 </p>
 
