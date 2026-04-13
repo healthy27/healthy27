@@ -32,6 +32,10 @@
 ## GitHub 활동
 
 <div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=healthy27&bg_color=ffffff&color=14532d&line=16a34a&point=22c55e&area=true&area_color=dcfce7&title_color=166534&hide_border=true&radius=12&custom_title=healthy27%20Contribution%20Graph" alt="GitHub contribution graph" />
+</div>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/healthy27/healthy27/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/healthy27/healthy27/output/github-contribution-grid-snake.svg" />
