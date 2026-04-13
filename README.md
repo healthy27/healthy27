@@ -32,15 +32,6 @@
 ## GitHub 활동
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=healthy27&show_icons=true&include_all_commits=true&theme=transparent&title_color=166534&icon_color=0ea5e9&text_color=14532d&border_color=86efac&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=healthy27&theme=transparent&hide_border=false&border=86efac&stroke=bbf7d0&ring=0f766e&fire=0ea5e9&currStreakNum=14532d&sideNums=14532d&currStreakLabel=166534&sideLabels=166534&dates=15803d" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=healthy27&layout=compact&theme=transparent&title_color=166534&text_color=14532d&border_color=86efac" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=healthy27&bg_color=ffffff&color=14532d&line=0f766e&point=0ea5e9&area=true&area_color=dcfce7&title_color=166534&hide_border=true&radius=12&custom_title=healthy27%20Activity%20Graph" alt="GitHub Activity Graph" />
 </div>
 
