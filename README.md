@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F0F,55:FF8A3D,100:FFE2C6&height=260&section=header&text=healthy27&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=FF6F0F&center=true&vCenter=true&width=920&lines=%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B8%B0%ED%9A%8D%EC%9E%90%EB%A5%BC%20%EA%BF%88%EA%BE%B8%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4" alt="Typing SVG" />
-</a>
-
 <p>
   <img src="https://img.shields.io/badge/Interest-Service%20Planning-FF6F0F?style=for-the-badge" alt="Interest Badge" />
   <img src="https://img.shields.io/badge/Focus-AI%20Service-FF8A3D?style=for-the-badge" alt="Focus Badge" />
@@ -21,10 +17,11 @@
 
 ## 관심 분야
 
-| 서비스 기획 | AI 서비스 | 문제 발견 | 개선 방향 |
-| --- | --- | --- | --- |
-| 사용자의 불편함 정의 | AI 기반 서비스 기획 | 리서치와 요구사항 정리 | 교육, 지역문제, 생산성 |
-| 기능 우선순위 설계 | 프로토타입 검증 | 데이터 기반 개선점 도출 | 일상에서 쓰이는 흐름 개선 |
+사용자가 일상에서 자연스럽게 마주치는 불편함을 발견하고, 더 쉽게 쓰이는 서비스 흐름으로 바꾸는 일에 관심이 있습니다.
+
+- **Service Planning**: 문제 정의, 기능 우선순위 설계, 사용자 흐름 정리
+- **AI Service**: AI 기반 서비스 기획, 피드백 경험 설계, 프로토타입 검증
+- **Problem Discovery**: 리서치와 요구사항 정리, 데이터 기반 개선점 도출
 
 ## GitHub 활동
 
@@ -50,7 +47,7 @@
 
 | 기간 | 활동명 | 역할/결과 | 비고 |
 | --- | --- | --- | --- |
-| 2026.05 ~ 진행 중 | 카카오테크캠퍼스 4기 | 교육생 | Backend / Campus 과정 |
+| 2026.05 ~ 진행 중 | 카카오테크캠퍼스 4기 | 교육생 | AI AGENT 과정 |
 | 2026.04 ~ 진행 중 | OK독해 창업동아리 | 팀원 | AI 학습 서비스 |
 | 2026.04 ~ 진행 중 | 더존 비교과 인턴십 | 인턴 | 2026.04.13 ~ 2026.05.13, 2026.05.18 ~ 2026.06.19 |
 | 2026.03 ~ 진행 중 | 인공지능리터러시 수업 | 조교 | AI 교육 지원 |
