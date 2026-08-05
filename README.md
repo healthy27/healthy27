@@ -1,6 +1,8 @@
 # healthy27
 
-결제 시스템에 관심이 있습니다.
+[![solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=zkzk1351)](https://solved.ac/zkzk1351)
+
+결제 시스템과 PG·핀테크 기술에 관심이 있습니다.
 
 돈이 오가는 흐름은 한 번의 실패가 곧 사용자 손해가 되기 때문에,
 "왜 이렇게 설계했을까"를 끝까지 따져보는 편입니다.
